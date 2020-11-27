@@ -20,3 +20,5 @@ Usage:
 
 - Step 3: Ask SoDI
   `python gyagyas.py --question="hazudsz"`
+
+![alt text](https://github.com/lepunk/sodibot/blob/master/ss.png?raw=true)
