@@ -8,7 +8,7 @@ Installation:
 `pip install -r requirements.txt`
 
 Usage:
-- Step 1.: Gather training data 
+- Step 1.: Gather training data (you can skip this step. training.tsv is included)
   `python scraper.py --min-page-number=200 --max-page-number=500`
 
   Downloads information from SoDI Forum between {min-page-number} and {max-page-number} where SoDi is actually reacting to comments
